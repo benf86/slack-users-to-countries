@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "logins": [
+      {
+          "user_id": "U23Q828QM",
+          "username": "ben",
+          "date_first": 1517358670,
+          "date_last": 1517358670,
+          "count": 1,
+          "ip": "188.198.228.238",
+          "user_agent": "ApiApp\/A02 Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/59.0.3071.115 Safari\/537.36",
+          "isp": null,
+          "country": null,
+          "region": null
+      },
+      {
+          "user_id": "U23Q828QM",
+          "username": "ben2",
+          "date_first": 1517358440,
+          "date_last": 1517358659,
+          "count": 3,
+          "ip": "188.198.228.238",
+          "user_agent": "SlackWeb\/0 Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/59.0.3071.115 Safari\/537.36",
+          "isp": null,
+          "country": null,
+          "region": null
+      }
+  ],
+  "paging": {
+      "count": 100,
+      "total": 626797,
+      "page": 1,
+      "pages": 6268
+  }
+}
